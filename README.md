@@ -4,7 +4,9 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
+
 Explain what software engineering is and discuss its importance in the technology industry.
+
 
 
 
@@ -33,6 +35,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
