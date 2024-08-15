@@ -1,9 +1,13 @@
-# SE_Day1
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15532475&assignment_repo_type=AssignmentRepo)
+# SE_Day1 
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
+
 Explain what software engineering is and discuss its importance in the technology industry.
+
+
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -31,6 +35,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
